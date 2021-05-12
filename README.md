@@ -6,10 +6,14 @@
 - Auto Nhảy vào room ngồi đã cho sẵn ID
 
 Nó chạy dựa trên nền tảng discord.js, note.js,...
+-------------------------------------------------------------------------
 
 - Nếu bạn là 1 người không am hiểu nhiều về lập trình bạn có thể thay đổi các thông số ở dưới để sử dụng. file ( config.json )
 
-*TOKEN 
+* TOKEN : Token bot
+* CHANNEL : ID room ( khi add bot về server, bot sẽ tự động nhảy vào room đó ngồi và phát nhạc 24/7 )
+* SERVER : ID server
+* LIVE : link youtube ( link link nhạc nào phát 24/7 trên youtube )
 
 {
 
