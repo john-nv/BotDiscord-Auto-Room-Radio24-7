@@ -11,10 +11,10 @@ Nó chạy dựa trên nền tảng discord.js, note.js,...
 
 *TOKEN 
 
-{
-  "TOKEN": "",
-  "CHANNEL": "",
-  "SERVER": "",
-  "STATUS": "",
-  "LIVE": ""
-}
+>{
+>  "TOKEN": "",
+>  "CHANNEL": "",
+>  "SERVER": "",
+>  "STATUS": "",
+>  "LIVE": ""
+>}
