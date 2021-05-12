@@ -22,4 +22,4 @@ setInterval(async function() {
   }
 }, 20000)
 
-client.login(TOKEN) //TEST
+client.login(TOKEN) 
