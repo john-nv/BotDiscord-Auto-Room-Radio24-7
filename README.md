@@ -12,7 +12,7 @@ Nó chạy dựa trên nền tảng discord.js, note.js,...
 *TOKEN 
 
 >{
->  "TOKEN": "",
+>  "TOKEN": ""
 >  "CHANNEL": "",
 >  "SERVER": "",
 >  "STATUS": "",
