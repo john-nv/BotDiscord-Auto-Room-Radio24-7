@@ -1,2 +1,1 @@
-# BotDiscord-AutoRoom
-Auto Ngồi Room - Radio 24/7
+# 24-7-Discord-Music-Bot
