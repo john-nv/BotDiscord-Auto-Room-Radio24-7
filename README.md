@@ -5,7 +5,7 @@
 - Phát nhạc 24/7
 - Auto Nhảy vào room ngồi đã cho sẵn ID
 
-Nó chạy dựa trên nền tảng discord.js, note.js,...
+Nó chạy dựa trên nền tảng discord.js, nodejs,...
 -------------------------------------------------------------------------
 
 - Nếu bạn là 1 người không am hiểu nhiều về lập trình bạn có thể thay đổi các thông số ở dưới để sử dụng. file ( config.json )
