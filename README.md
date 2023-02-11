@@ -1,19 +1,17 @@
 # Bot Discord
-## Bot Radio 24/7. Nó hoạt động trên nền tảng discord 
-### Tác dụng Bot
+## Bot Radio 24/7.
+### Chức năng
 
 - Phát nhạc 24/7
-- Auto Nhảy vào room ngồi đã cho sẵn ID
+- Auto nhảy vào voice đã cài đặt và phát nhạc
 
-Nó chạy dựa trên nền tảng discord.js, nodejs,...
--------------------------------------------------------------------------
+## Xây dựng trên các nền thư viện chính
+- Discord.js
+- Node.js
 
-- Nếu bạn là 1 người không am hiểu nhiều về lập trình bạn có thể thay đổi các thông số ở dưới để sử dụng. file ( config.json )
+### Cấu hình sử dụng
 
-* TOKEN : Token bot
-* CHANNEL : ID room ( khi add bot về server, bot sẽ tự động nhảy vào room đó ngồi và phát nhạc 24/7 )
-* SERVER : ID server
-* LIVE : link youtube ( link link nhạc nào phát 24/7 trên youtube )
+config.json
 
 {
 
@@ -28,3 +26,11 @@ Nó chạy dựa trên nền tảng discord.js, nodejs,...
   "LIVE": ""
   
 }
+
+* TOKEN : Token bot
+* CHANNEL : ID room ( khi add bot về server, bot sẽ tự động nhảy vào room đó ngồi và phát nhạc 24/7 )
+* SERVER : ID server
+* LIVE : link youtube ( link link nhạc nào phát 24/7 youtube )
+
+Chúc bạn thành công
+
